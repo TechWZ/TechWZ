@@ -1,4 +1,4 @@
-## 你好，这里是Hysen的GitHub主页👋
+## Welcome to Hysen's GitHub Profile！👋
 ## 个人技术栈：
 - 服务端
   - Java、Python3
