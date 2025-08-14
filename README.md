@@ -2,7 +2,7 @@
 ## 个人技术栈：
 - 服务端
   - Java、Python3
-  - Spring系列服务端框架
+  - SpringBoot、SpringAI
   - MySQL数据库引擎
   - Ubuntu/macOS/Windows
   - Docker
