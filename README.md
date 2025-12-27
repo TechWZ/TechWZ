@@ -2,9 +2,9 @@
 ## 个人技术栈：
 - 服务端
   - Java、Python3
-  - SpringBoot、SpringAI
-  - MySQL数据库引擎
-  - Ubuntu/macOS/Windows
+  - Spring系列框架
+  - MySQL、PostgreSQL数据库，MyBatis数据库框架
+  - Linux/macOS/Windows
   - Docker
 - 前端
   - Vue3 JS框架
@@ -14,8 +14,12 @@
 ## 其它能力
 - 沟通语言：中文、英文
 - 视频剪辑
+- 摄影摄像
+- 智能家居（包含个人服务及服务器搭建）
 ## 爱好
 - 自驾
+## 梦想
+- 数字游民
 <!--
 **TechWZ/TechWZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
