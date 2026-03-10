@@ -3,12 +3,12 @@
 - 服务端
   - Java、Python3
   - Spring系列框架
-  - MySQL、PostgreSQL数据库，MyBatis数据库框架
+  - MySQL、PostgreSQL、Redis数据库，MyBatis数据库框架
   - Linux/macOS/Windows
   - Docker
 - 前端
-  - Vue3 JS框架
-  - Element、TDesign UI框架
+  - Vue3、React19 JS框架
+  - Element系列、TDesign系列 UI框架
 - 区块链
   - Fisco Bcos联盟链
 ## 其它能力
