@@ -7,19 +7,19 @@
 - AI应用开发
   - 围绕大模型实现应用产品的落地  
 - 后端
-  - Java /   Python3
-  - MySQL / PostgreSQL / Redis 数据库
-  - Spring系列框架 / MyBatis数据库框架
-  - Linux / macOS / Windows
+  - Java &nbsp; / &nbsp; Python3
+  - MySQL &nbsp; / &nbsp; PostgreSQL &nbsp; / &nbsp; Redis &nbsp; 数据库
+  - Spring系列框架 &nbsp; / &nbsp; MyBatis数据库框架
+  - Linux &nbsp; / &nbsp; macOS &nbsp; / &nbsp; Windows
   - Docker
 - 前端
-  - TypeScript / JavaScript
-  - Vue3.js / React19 JS框架
-  - Element系列 / TDesign系列 等UI框架
+  - TypeScript &nbsp; / &nbsp; JavaScript
+  - Vue3.js &nbsp; / &nbsp; React19 &nbsp; JS框架
+  - Element系列 &nbsp; / &nbsp; TDesign系列 &nbsp; 等UI框架
 - 区块链
   - Fisco Bcos联盟链
 ## 其它能力
-- 沟通语言：中文、英文
+- 沟通语言：中文 &nbsp; / &nbsp; 英文
 - 视频剪辑
 - 摄影
 - 智能服务搭建
