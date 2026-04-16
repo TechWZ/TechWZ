@@ -1,14 +1,14 @@
 ## Welcome to Hysen's GitHub Profile！👋
 ## 个人技术栈：
-- 服务端
+- 后端
   - Java、Python3
-  - Spring系列框架
-  - MySQL、PostgreSQL、Redis数据库，MyBatis数据库框架
+  - Spring系列框架、MyBatis数据库框架等
+  - MySQL、PostgreSQL、Redis数据库
   - Linux/macOS/Windows
   - Docker
 - 前端
   - Vue3、React19 JS框架
-  - Element系列、TDesign系列 UI框架
+  - Element系列、TDesign系列等UI框架
 - 区块链
   - Fisco Bcos联盟链
 ## 其它能力
