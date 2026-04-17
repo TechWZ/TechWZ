@@ -13,7 +13,7 @@
   - Linux &nbsp; / &nbsp; macOS &nbsp; / &nbsp; Windows
   - Docker
 - 前端
-  - TypeScript &nbsp; / &nbsp; JavaScript &nbsp; / &nbsp; HTML5/CSS3/Less
+  - TypeScript &nbsp; / &nbsp; JavaScript
   - Vue3.js &nbsp; / &nbsp; React19 &nbsp; JS框架
   - Element系列 &nbsp; / &nbsp; TDesign系列 &nbsp; 等UI框架
 - 区块链
