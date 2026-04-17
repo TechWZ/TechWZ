@@ -5,7 +5,7 @@
 - 4月9日开始投简历了
 ## 个人技术栈：
 - AI应用开发
-  - 围绕大模型实现应用产品的落地  
+  - 实现AI应用产品的落地  
 - 后端
   - Java &nbsp; / &nbsp; Python3
   - MySQL &nbsp; / &nbsp; PostgreSQL &nbsp; / &nbsp; Redis &nbsp; 数据库
@@ -13,11 +13,12 @@
   - Linux &nbsp; / &nbsp; macOS &nbsp; / &nbsp; Windows
   - Docker
 - 前端
-  - TypeScript &nbsp; / &nbsp; JavaScript
+  - TypeScript &nbsp; / &nbsp; JavaScript &nbsp; / &nbsp; HTML5/CSS3/Less
   - Vue3.js &nbsp; / &nbsp; React19 &nbsp; JS框架
   - Element系列 &nbsp; / &nbsp; TDesign系列 &nbsp; 等UI框架
 - 区块链
   - Fisco Bcos联盟链
+  - Solidity
 ## 其它能力
 - 沟通语言：中文 &nbsp; / &nbsp; 英文
 - 视频剪辑
