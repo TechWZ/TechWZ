@@ -1,8 +1,9 @@
 ## Welcome to Hysen's GitHub Profile！👋
 ## 正在进行中～
+- 已完成的项目
+- macOS平台IPv6 DDNS工具
 - 正在开发的项目
   - 车辆能源消耗记录工具
-  - macOS平台IPv6DDNS服务
   - 账本工具
 - 开始投简历找新工作
 ## 个人技术栈：
