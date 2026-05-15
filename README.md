@@ -13,7 +13,7 @@
 - 后端
   - Java &nbsp; / &nbsp; Python3
   - MySQL &nbsp; / &nbsp; PostgreSQL &nbsp; / &nbsp; Redis &nbsp; 数据库
-  - Spring系列框架 &nbsp; / &nbsp; MyBatis数据库框架
+  - Spring系列框架微服务架构分布式集群 &nbsp; / &nbsp; MyBatis数据库框架
   - Linux &nbsp; / &nbsp; macOS &nbsp; / &nbsp; Windows
   - Docker
 - 前端
