@@ -1,7 +1,7 @@
 ## Welcome to Hysen's GitHub Profile！👋
 ## 已开发完成正在使用和迭代中的产品
 - macOS平台IPv6 DDNS菜单栏工具
-  - 当前1.0版本
+  - 当前稳定使用中
 ## 正在进行中～
 ### 软件产品
 - 车辆能源记录工具
